@@ -18,7 +18,7 @@ You can refine the count by cleaning the string prior to splitting or validating
 ### Step 6: 
 End the program.
 ## PROGRAM:
-Developed by : GABJI MUNI MADHURI
+Developed by : GANJI MUNI MADHURI
 Registered number: 212223230060
 
 def wordcount(filename):
